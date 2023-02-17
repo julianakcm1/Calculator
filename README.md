@@ -8,7 +8,7 @@ O que foi proposto nesse desafio:
 - Operadores comparativos;
 - Condicional.
 
-Nesse desafio, você irá solicitar ao usuário que ele insira **dois números** e, a partir daí, calcular:
+Solicitar ao usuário que ele insira **dois números** e, a partir daí, calcular:
 
 - A soma dos dois números;
 - A subtração dos dois números;
